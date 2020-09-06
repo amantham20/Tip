@@ -32,6 +32,8 @@ GIF created with [Imgur](imgur.com).
 
 Describe any challenges encountered while building the app.
 
+“tipAmountSegmentedControl” was incorrectly labeled as tip "tipAmount"
+
 ## License
 
     Copyright [2020] [Aman Dhruva Thamminana]
